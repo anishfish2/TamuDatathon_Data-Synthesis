@@ -1,0 +1,700 @@
+,Company Name,Job Name,Location,Rating,Pay (Annual or Hourly)
+0,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+1,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+2,Lumen,"Intern - Software Engineer - Summer 2022, CO or Remote (US)","Littleton, CO",3.3,59000 - 114000 
+3,Northrop Grumman,2022 Digital Software Engineer Intern-Baltimore,"Baltimore, MD",4,23 - 28 
+4,Cognex Corporation,Software Engineering Intern,"Natick, MA",4,70000 - 132000 
+5,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+6,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+7,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+8,Pinterest,Software Engineering Intern (USA),"Seattle, WA",4.2,81000 - 186000 
+9,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+10,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+13,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"San Francisco, CA",4.4,38
+14,Duolingo,"Software Engineering, Thrive Intern","Pittsburgh, PA",4.7,53000 - 114000 
+15,Salesforce,Summer 2022 Intern - Software Engineer,"Bellevue, WA",4.4,38
+17,Belvedere Trading,Software Engineer Intern - Summer 2022,"Boulder, CO",3.5,105000
+18,MasterCard,Software Development Engineer Intern,"O'Fallon, MO",4.2,63000 - 126000 
+19,DraftKings,SOFTWARE ENGINEER INTERN (SUMMER 2022),"Boston, MA",4.4,66000 - 131000 
+20,Unity Technologies,Software Engineer Intern,"San Francisco, CA",4.4,75000 - 144000 
+21,TikTok,"GIP - Software Engineer, Mobile Intern 2021","Mountain View, CA",3.6,90000 - 186000 
+23,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+24,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+25,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+26,TikTok,Software Engineer PhD Intern - 2022 Summer,"San Francisco, CA",3.6,83000 - 192000 
+27,Slack,Software Engineering Intern,"San Francisco, CA",4.7,80000 - 193000 
+28,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+31,Trimble,Software Engineer- Intern,"Princeton, NJ",4.5,63000 - 125000 
+32,Trimble,Software Engineer Intern - AWS,"Princeton, NJ",4.5,61000 - 120000 
+34,Lumen,Intern - Software Developer- Summer 2022,"Broomfield, CO",3.3,61000 - 120000 
+35,Rivial Data Security,User Experience Intern,Remote,,15
+36,Atlassian,"Software Engineer Intern, 2022 Summer U.S.","Mountain View, CA",4.6,78000 - 170000 
+37,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+38,Amazon.com Services LLC,Software Development Engineer Internship - Summer 2022 (US),"Seattle, WA",3.7,99000
+40,Bose,"Embedded Software (Linux C++) Application Engineering Intern, Out Loud Audio","Framingham, MA",4,72000 - 151000 
+41,NetApp,Intern - Software Engineer (BLDR),"Boulder, CO",4.1,74000 - 163000 
+42,NetApp,Intern - Software Engineer (NANE),"Waltham, MA",4.1,68000 - 159000 
+43,Riot Games,Software Engineering Intern,"Los Angeles, CA",4.2,75000 - 167000 
+44,Amazon.com Services LLC,Software Development Engineer Intern - Amazon Robotics - Summer 2022,"North Reading, MA",3.7,75000 - 143000 
+45,IBM,2022 Summer Software Engineer Intern – Impact Science,"San Jose, CA",3.9,74000 - 169000 
+46,Twilio - University Programs,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",,41
+47,Splunk,Software Engineer Intern (Remote - Summer 2022) - 20975,"San Francisco, CA",4.1,67000 - 183000 
+48,Johnson & Johnson Family of Companies,Robotics Software Engineering Intern 2022,"Redwood City, CA",4.2,69000 - 144000 
+49,SEVEN EIGHT CAPITAL,2022 Software Engineer Intern (Campus Hire),"New York, NY",,72000 - 171000 
+50,Databricks,Software Engineering Intern,"San Francisco, CA",4.8,79000 - 182000 
+51,Intel,Software Engineer - PEY Intern,"San Jose, CA",4.2,84000 - 177000 
+52,Microsoft,"Ability Hiring Program, Software Engineering: Intern Opportunities","Redmond, WA",4.4,94000 - 184000 
+53,Productiv Inc,"Software Engineer, Intern","Palo Alto, CA",4.7,68000 - 145000 
+54,Niantic,Software Engineering Intern - Summer 2022,"San Francisco, CA",3.6,86000 - 186000 
+55,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+56,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+57,"Agilent Technologies, Inc.",Software Development Intern,"Wilmington, DE",4.2,38000 - 66000 
+58,TikTok,AR Effects Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,84000 - 179000 
+59,Intuit,Software Engineer Intern (Summer 2022),"Mountain View, CA",4.4,78000 - 170000 
+60,Trimble,Software Engineer- Intern,"Princeton, NJ",4.5,63000 - 125000 
+61,"Sandhills Global, Inc.",Software Development Intern,"Lincoln, NE",3,25
+63,Northrop Grumman,"2022 Software Intern (Woodland Hills, CA)","Woodland Hills, CA",4,24 - 30 
+64,Rivial Data Security,User Experience Intern,Remote,,15
+66,ITW,Software Engineer Intern,"Forest Junction, WI",3.7,51000 - 93000 
+67,ThermoAnalytics,Software Development Interns,"Calumet, MI",,21
+68,Autodesk,"Intern, Software Engineer","Irvine, CA",4.3,75000 - 167000 
+69,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+70,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+71,Force Therapeutics,Software Engineer Intern,"New York, NY",4.8,20
+72,Verizon Media,Software Engineer Intern,"Dulles, VA",3.9,65000 - 127000 
+73,Intuit,Software Engineer Intern (Summer 2022),"San Diego, CA",4.4,61000 - 136000 
+74,Hewlett Packard Enterprise,System Software Engineer Fall Intern,"Houston, TX",4,72000 - 156000 
+75,FactSet Research Systems,Software Engineer Intern - Americas Campus (Summer 2022),"York, NY",4,34
+76,Intel,Intern Software Engineer,"Hillsboro, OR",4.2,76000 - 120000 
+78,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+80,Smartcare Software,Software Engineer Intern,Remote,,15 - 20 
+81,"Chick-fil-A, Inc.",2022 Software Engineering Summer Intern,"Atlanta, GA",3.9,54000 - 110000 
+82,Pearson,Intern - Software Engineer,"Boston, MA",3.7,61000 - 131000 
+83,Clarity,Software Engineer Intern at Silicon Valley-based Early Stage Startup,Remote,,13 - 33 
+84,Khan Academy,Software Engineer Intern,"Mountain View, CA",4,86000 - 155000 
+85,Red Rock Business Advisors,Software Engineer Intern,"Leesburg, VA",,59000 - 104000 
+86,Nintendo of America Inc.,Intern – IT Software Engineer (NOA),"Redmond, WA",4.1,73000 - 144000 
+87,Skyward,Software Engineer Intern,"Stevens Point, WI",4.4,52000 - 98000 
+88,Narvalous Inc,Software Engineer Intern (Remote) (Paid),Remote,,15
+89,"Phoenix Logistics, LLC",Software Engineer Intern,"Orlando, FL",,56000 - 105000 
+90,Trimble,Software Engineer- Intern,"Princeton, NJ",4.5,63000 - 125000 
+91,"Sandhills Global, Inc.",Software Development Intern,"Lincoln, NE",3,25
+93,Northrop Grumman,"2022 Software Intern (Woodland Hills, CA)","Woodland Hills, CA",4,24 - 30 
+94,Rivial Data Security,User Experience Intern,Remote,,15
+96,ITW,Software Engineer Intern,"Forest Junction, WI",3.7,51000 - 93000 
+97,ThermoAnalytics,Software Development Interns,"Calumet, MI",,21
+98,Autodesk,"Intern, Software Engineer","Irvine, CA",4.3,75000 - 167000 
+99,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+100,Force Therapeutics,Software Engineer Intern,"New York, NY",4.8,20
+101,Verizon Media,Software Engineer Intern,"Dulles, VA",3.9,65000 - 127000 
+102,Intuit,Software Engineer Intern (Summer 2022),"San Diego, CA",4.4,61000 - 136000 
+103,Hewlett Packard Enterprise,System Software Engineer Fall Intern,"Houston, TX",4,72000 - 156000 
+104,FactSet Research Systems,Software Engineer Intern - Americas Campus (Summer 2022),"York, NY",4,34
+106,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+107,Smartcare Software,Software Engineer Intern,Remote,,15 - 20 
+108,Pearson,Intern - Software Engineer,"Boston, MA",3.7,61000 - 131000 
+109,Clarity,Software Engineer Intern at Silicon Valley-based Early Stage Startup,Remote,,13 - 33 
+110,Khan Academy,Software Engineer Intern,"Mountain View, CA",4,86000 - 155000 
+111,Red Rock Business Advisors,Software Engineer Intern,"Leesburg, VA",,59000 - 104000 
+112,Skyward,Software Engineer Intern,"Stevens Point, WI",4.4,52000 - 98000 
+113,Narvalous Inc,Software Engineer Intern (Remote) (Paid),Remote,,15
+114,"Phoenix Logistics, LLC",Software Engineer Intern,"Orlando, FL",,56000 - 105000 
+116,Forcepoint,Software Engineer Intern,"Champaign, IL",3.1,57000 - 110000 
+117,Garmin,Software Engineer Intern (Part-Time) - KU Office,"Lawrence, KS",4.2,40000 - 89000 
+118,U.S. Bank,2022 Undergraduate Summer Internship Program - Software Development,"Irving, TX",3.7,47000 - 103000 
+119,UiPath,Software Engineer Intern,"Bellevue, WA",4.1,69000 - 138000 
+120,Trimble,Software Engineer- Intern,"Princeton, NJ",4.5,63000 - 125000 
+121,"Sandhills Global, Inc.",Software Development Intern,"Lincoln, NE",3,25
+123,Northrop Grumman,"2022 Software Intern (Woodland Hills, CA)","Woodland Hills, CA",4,24 - 30 
+124,Rivial Data Security,User Experience Intern,Remote,,15
+126,Prudential,Prudential: 2022 Coding & Software Development Internship,"Newark, NJ",3.8,41000 - 95000 
+127,ITW,Software Engineer Intern,"Forest Junction, WI",3.7,51000 - 93000 
+128,ThermoAnalytics,Software Development Interns,"Calumet, MI",,21
+129,Autodesk,"Intern, Software Engineer","Irvine, CA",4.3,75000 - 167000 
+130,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+131,Force Therapeutics,Software Engineer Intern,"New York, NY",4.8,20
+132,Verizon Media,Software Engineer Intern,"Dulles, VA",3.9,65000 - 127000 
+133,Intuit,Software Engineer Intern (Summer 2022),"San Diego, CA",4.4,61000 - 136000 
+134,Hewlett Packard Enterprise,System Software Engineer Fall Intern,"Houston, TX",4,72000 - 156000 
+135,FactSet Research Systems,Software Engineer Intern - Americas Campus (Summer 2022),"York, NY",4,34
+136,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+137,Smartcare Software,Software Engineer Intern,Remote,,15 - 20 
+138,Pearson,Intern - Software Engineer,"Boston, MA",3.7,61000 - 131000 
+139,Clarity,Software Engineer Intern at Silicon Valley-based Early Stage Startup,Remote,,13 - 33 
+140,Red Rock Business Advisors,Software Engineer Intern,"Leesburg, VA",,59000 - 104000 
+141,Skyward,Software Engineer Intern,"Stevens Point, WI",4.4,52000 - 98000 
+142,Narvalous Inc,Software Engineer Intern (Remote) (Paid),Remote,,15
+144,Forcepoint,Software Engineer Intern,"Champaign, IL",3.1,57000 - 110000 
+145,Garmin,Software Engineer Intern (Part-Time) - KU Office,"Lawrence, KS",4.2,40000 - 89000 
+146,U.S. Bank,2022 Undergraduate Summer Internship Program - Software Development,"Irving, TX",3.7,47000 - 103000 
+147,Vectorworks Inc.,Software Engineer Intern (Systems Development),"Columbia, MD",4,62000 - 125000 
+148,Schweitzer Engineering Laboratories,Software Engineer Intern,"Pullman, WA",3.9,56000 - 120000 
+149,Citadel,Software Engineer Intern,"Chicago, IL",3.7,83000 - 146000 
+150,Trimble,Software Engineer- Intern,"Princeton, NJ",4.5,63000 - 125000 
+151,"Sandhills Global, Inc.",Software Development Intern,"Lincoln, NE",3,25
+153,Flagship Trade Net,"Web Developement / Frontend Maintenance, Intern/Consulting Position",,,20 - 30 
+155,Northrop Grumman,"2022 Software Intern (Woodland Hills, CA)","Woodland Hills, CA",4,24 - 30 
+156,Prudential,Prudential: 2022 Coding & Software Development Internship,"Newark, NJ",3.8,41000 - 95000 
+157,Rivial Data Security,User Experience Intern,Remote,,15
+158,Prudential,Prudential: 2022 Information Technology Internship,"Newark, NJ",3.8,53000 - 122000 
+160,ITW,Software Development Intern,"Fort Lauderdale, FL",3.7,44000 - 96000 
+161,Stackline,Software Engineer-2022 Internship,"Seattle, WA",4.2,71000 - 158000 
+162,ThermoAnalytics,Software Development Interns,"Calumet, MI",,21
+163,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+164,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+165,Intuit,Software Engineer Intern (Summer 2022),"San Diego, CA",4.4,61000 - 136000 
+166,Verizon Media,Software Engineer Intern,"Dulles, VA",3.9,65000 - 127000 
+167,Force Therapeutics,Software Engineer Intern,"New York, NY",4.8,20
+168,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+169,L3Harris Technologies,"Software Engineering Intern C/Coop (Greenville, TX)","Greenville, TX",3.6,48000 - 113000 
+170,FactSet Research Systems,Software Engineer Intern - Americas Campus (Summer 2022),"York, NY",4,34
+171,Hewlett Packard Enterprise,System Software Engineer Fall Intern,"Houston, TX",4,72000 - 156000 
+172,Garmin,Software Engineer Intern (Part-Time) - KU Office,"Lawrence, KS",4.2,40000 - 89000 
+173,Home Depot / THD,Software Engineer Intern- Orange Works,"Atlanta, GA",3.8,52000 - 118000 
+174,Tesla,"Software Engineer Internship, Fleet Health (Spring 2022)","Fremont, CA",3.7,53000 - 126000 
+175,U.S. Bank,2022 Undergraduate Summer Internship Program - Software Development,"Englewood, CO",3.7,15 - 16 
+176,Smartcare Software,Software Engineer Intern,Remote,,15 - 20 
+177,Narvalous Inc,Software Engineer Intern (Remote) (Paid),Remote,,15
+178,Pearson,Intern - Software Engineer,"San Antonio, TX",3.7,52000 - 112000 
+179,Verizon,Software Development Summer 2022 Internship,"Irving, TX",3.9,67000 - 151000 
+180,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+181,"Sandhills Global, Inc.",Software Development Intern,"Lincoln, NE",3,25
+182,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+184,Northrop Grumman,2022 Digital Software Engineer Intern-Baltimore,"Baltimore, MD",4,23 - 28 
+185,Northrop Grumman,"2022 Software Intern (Woodland Hills, CA)","Woodland Hills, CA",4,24 - 30 
+186,ThermoAnalytics,Software Development Interns,"Calumet, MI",,21
+187,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+188,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+190,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+191,Pinterest,Software Engineering Intern (USA),"Seattle, WA",4.2,81000 - 186000 
+193,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"San Francisco, CA",4.4,38
+194,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+195,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+196,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+197,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+198,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+199,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+201,Salesforce,Summer 2022 Intern - Software Engineer,"Bellevue, WA",4.4,38
+202,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+203,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+204,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+205,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+206,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+208,Duolingo,"Software Engineering, Thrive Intern","Pittsburgh, PA",4.7,53000 - 114000 
+209,Bose,"Embedded Software (Linux C++) Application Engineering Intern, Out Loud Audio","Framingham, MA",4,72000 - 151000 
+210,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+211,"Sandhills Global, Inc.",Software Development Intern,"Lincoln, NE",3,25
+212,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+214,Northrop Grumman,"2022 Software Intern (Woodland Hills, CA)","Woodland Hills, CA",4,24 - 30 
+215,Northrop Grumman,2022 Digital Software Engineer Intern-Baltimore,"Baltimore, MD",4,23 - 28 
+216,Cognex Corporation,Software Engineering Intern,"Natick, MA",4,70000 - 132000 
+217,Pinterest,Software Engineering Intern (USA),"Seattle, WA",4.2,81000 - 186000 
+218,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+219,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+220,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+221,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+222,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+226,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+227,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+228,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+229,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+230,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+231,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+232,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+233,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+234,Salesforce,Summer 2022 Intern - Software Engineer,"Bellevue, WA",4.4,38
+236,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+237,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+238,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+239,MasterCard,Software Development Engineer Intern,"O'Fallon, MO",4.2,63000 - 126000 
+240,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+241,"Sandhills Global, Inc.",Software Development Intern,"Lincoln, NE",3,25
+242,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+244,Northrop Grumman,"2022 Software Intern (Woodland Hills, CA)","Woodland Hills, CA",4,24 - 30 
+245,Northrop Grumman,2022 Digital Software Engineer Intern-Baltimore,"Baltimore, MD",4,23 - 28 
+246,Cognex Corporation,Software Engineering Intern,"Natick, MA",4,70000 - 132000 
+247,Pinterest,Software Engineering Intern (USA),"Seattle, WA",4.2,81000 - 186000 
+248,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+249,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+250,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+251,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+252,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+256,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+257,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+258,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+259,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+260,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+261,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+262,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+263,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+264,Salesforce,Summer 2022 Intern - Software Engineer,"Bellevue, WA",4.4,38
+266,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+267,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+268,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+269,MasterCard,Software Development Engineer Intern,"O'Fallon, MO",4.2,63000 - 126000 
+270,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+271,"Sandhills Global, Inc.",Software Development Intern,"Lincoln, NE",3,25
+272,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+274,Northrop Grumman,"2022 Software Intern (Woodland Hills, CA)","Woodland Hills, CA",4,24 - 30 
+275,Northrop Grumman,2022 Digital Software Engineer Intern-Baltimore,"Baltimore, MD",4,23 - 28 
+276,Cognex Corporation,Software Engineering Intern,"Natick, MA",4,70000 - 132000 
+277,Pinterest,Software Engineering Intern (USA),"Seattle, WA",4.2,81000 - 186000 
+278,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+279,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+280,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+281,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+282,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+286,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+287,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+288,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+289,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+290,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+291,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+292,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+293,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+294,Salesforce,Summer 2022 Intern - Software Engineer,"Bellevue, WA",4.4,38
+296,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+297,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+298,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+299,MasterCard,Software Development Engineer Intern,"O'Fallon, MO",4.2,63000 - 126000 
+300,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+301,"Sandhills Global, Inc.",Software Development Intern,"Lincoln, NE",3,25
+302,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+304,Northrop Grumman,"2022 Software Intern (Woodland Hills, CA)","Woodland Hills, CA",4,24 - 30 
+305,Northrop Grumman,2022 Digital Software Engineer Intern-Baltimore,"Baltimore, MD",4,23 - 28 
+306,Cognex Corporation,Software Engineering Intern,"Natick, MA",4,70000 - 132000 
+307,Pinterest,Software Engineering Intern (USA),"Seattle, WA",4.2,81000 - 186000 
+308,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+309,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+310,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+311,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+312,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+316,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+317,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+318,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+319,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+320,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+321,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+322,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+323,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+324,Salesforce,Summer 2022 Intern - Software Engineer,"Bellevue, WA",4.4,38
+326,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+327,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+328,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+329,MasterCard,Software Development Engineer Intern,"O'Fallon, MO",4.2,63000 - 126000 
+330,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+331,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+332,Northrop Grumman,"2022 Software Intern (Woodland Hills, CA)","Woodland Hills, CA",4,24 - 30 
+333,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+334,Pinterest,Software Engineering Intern (USA),"Seattle, WA",4.2,81000 - 186000 
+335,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+336,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+338,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+340,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+341,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+343,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+344,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+345,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+346,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+347,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+348,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+349,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+350,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+352,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+353,Bose,"Embedded Software (Linux C++) Application Engineering Intern, Out Loud Audio","Framingham, MA",4,72000 - 151000 
+354,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+355,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+356,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+357,NetApp,Intern - Software Engineer (NANE),"Waltham, MA",4.1,68000 - 159000 
+358,TikTok,"GIP - Software Engineer, Mobile Intern 2021","Mountain View, CA",3.6,90000 - 186000 
+359,Databricks,Software Engineering Intern,"San Francisco, CA",4.8,79000 - 182000 
+360,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+361,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+362,Northrop Grumman,"2022 Software Intern (Woodland Hills, CA)","Woodland Hills, CA",4,24 - 30 
+363,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+364,Pinterest,Software Engineering Intern (USA),"Seattle, WA",4.2,81000 - 186000 
+365,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+366,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+368,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+370,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+371,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+373,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+374,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+375,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+376,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+377,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+378,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+379,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+380,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+382,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+383,Bose,"Embedded Software (Linux C++) Application Engineering Intern, Out Loud Audio","Framingham, MA",4,72000 - 151000 
+384,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+385,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+386,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+387,NetApp,Intern - Software Engineer (NANE),"Waltham, MA",4.1,68000 - 159000 
+388,TikTok,"GIP - Software Engineer, Mobile Intern 2021","Mountain View, CA",3.6,90000 - 186000 
+389,Databricks,Software Engineering Intern,"San Francisco, CA",4.8,79000 - 182000 
+390,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+391,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+392,Northrop Grumman,"2022 Software Intern (Woodland Hills, CA)","Woodland Hills, CA",4,24 - 30 
+393,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+394,Pinterest,Software Engineering Intern (USA),"Seattle, WA",4.2,81000 - 186000 
+395,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+396,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+398,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+400,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+401,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+403,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+404,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+405,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+406,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+407,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+408,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+409,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+410,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+412,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+413,Bose,"Embedded Software (Linux C++) Application Engineering Intern, Out Loud Audio","Framingham, MA",4,72000 - 151000 
+414,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+415,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+416,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+417,NetApp,Intern - Software Engineer (NANE),"Waltham, MA",4.1,68000 - 159000 
+418,TikTok,"GIP - Software Engineer, Mobile Intern 2021","Mountain View, CA",3.6,90000 - 186000 
+419,Databricks,Software Engineering Intern,"San Francisco, CA",4.8,79000 - 182000 
+420,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+421,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+422,Northrop Grumman,"2022 Software Intern (Woodland Hills, CA)","Woodland Hills, CA",4,24 - 30 
+423,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+424,Pinterest,Software Engineering Intern (USA),"Seattle, WA",4.2,81000 - 186000 
+425,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+426,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+428,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+430,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+431,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+433,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+434,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+435,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+436,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+437,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+438,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+439,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+440,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+442,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+443,Bose,"Embedded Software (Linux C++) Application Engineering Intern, Out Loud Audio","Framingham, MA",4,72000 - 151000 
+444,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+445,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+446,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+447,NetApp,Intern - Software Engineer (NANE),"Waltham, MA",4.1,68000 - 159000 
+448,TikTok,"GIP - Software Engineer, Mobile Intern 2021","Mountain View, CA",3.6,90000 - 186000 
+449,Databricks,Software Engineering Intern,"San Francisco, CA",4.8,79000 - 182000 
+450,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+451,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+452,Northrop Grumman,"2022 Software Intern (Woodland Hills, CA)","Woodland Hills, CA",4,24 - 30 
+453,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+454,Pinterest,Software Engineering Intern (USA),"Seattle, WA",4.2,81000 - 186000 
+455,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+456,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+458,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+460,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+461,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+463,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+464,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+465,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+466,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+467,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+468,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+469,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+470,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+472,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+473,Bose,"Embedded Software (Linux C++) Application Engineering Intern, Out Loud Audio","Framingham, MA",4,72000 - 151000 
+474,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+475,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+476,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+477,NetApp,Intern - Software Engineer (NANE),"Waltham, MA",4.1,68000 - 159000 
+478,TikTok,"GIP - Software Engineer, Mobile Intern 2021","Mountain View, CA",3.6,90000 - 186000 
+479,Databricks,Software Engineering Intern,"San Francisco, CA",4.8,79000 - 182000 
+480,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+481,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+482,Northrop Grumman,"2022 Software Intern (Woodland Hills, CA)","Woodland Hills, CA",4,24 - 30 
+483,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+484,Pinterest,Software Engineering Intern (USA),"Seattle, WA",4.2,81000 - 186000 
+485,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+486,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+488,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+490,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+491,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+493,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+494,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+495,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+496,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+497,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+498,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+499,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+500,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+502,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+503,Bose,"Embedded Software (Linux C++) Application Engineering Intern, Out Loud Audio","Framingham, MA",4,72000 - 151000 
+504,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+505,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+506,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+507,NetApp,Intern - Software Engineer (NANE),"Waltham, MA",4.1,68000 - 159000 
+508,TikTok,"GIP - Software Engineer, Mobile Intern 2021","Mountain View, CA",3.6,90000 - 186000 
+509,Databricks,Software Engineering Intern,"San Francisco, CA",4.8,79000 - 182000 
+510,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+511,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+512,Northrop Grumman,"2022 Software Intern (Woodland Hills, CA)","Woodland Hills, CA",4,24 - 30 
+513,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+514,Pinterest,Software Engineering Intern (USA),"Seattle, WA",4.2,81000 - 186000 
+515,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+516,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+518,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+520,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+521,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+523,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+524,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+525,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+526,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+527,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+528,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+529,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+530,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+532,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+533,Bose,"Embedded Software (Linux C++) Application Engineering Intern, Out Loud Audio","Framingham, MA",4,72000 - 151000 
+534,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+535,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+536,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+537,NetApp,Intern - Software Engineer (NANE),"Waltham, MA",4.1,68000 - 159000 
+538,TikTok,"GIP - Software Engineer, Mobile Intern 2021","Mountain View, CA",3.6,90000 - 186000 
+539,Databricks,Software Engineering Intern,"San Francisco, CA",4.8,79000 - 182000 
+540,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+541,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+542,Northrop Grumman,2022 Digital Software Engineer Intern-Baltimore,"Baltimore, MD",4,23 - 28 
+543,Pinterest,Software Engineering Intern (USA),,,81000 - 186000 
+544,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+545,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+546,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+549,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+550,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+552,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+553,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+554,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+555,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+556,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+557,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+558,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+559,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+560,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+562,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+563,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+564,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+565,Bose,"Embedded Software (Linux C++) Application Engineering Intern, Out Loud Audio","Framingham, MA",4,72000 - 151000 
+566,Duolingo,"Software Engineering, Thrive Intern","Pittsburgh, PA",4.7,53000 - 114000 
+567,NetApp,Intern - Software Engineer (BLDR),"Boulder, CO",4.1,74000 - 163000 
+568,Databricks,Software Engineering Intern,"San Francisco, CA",4.8,79000 - 182000 
+569,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+570,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+571,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+572,Northrop Grumman,2022 Digital Software Engineer Intern-Baltimore,"Baltimore, MD",4,23 - 28 
+573,Pinterest,Software Engineering Intern (USA),,,81000 - 186000 
+574,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+575,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+576,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+579,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+580,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+582,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+583,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+584,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+585,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+586,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+587,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+588,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+589,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+590,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+592,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+593,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+594,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+595,Bose,"Embedded Software (Linux C++) Application Engineering Intern, Out Loud Audio","Framingham, MA",4,72000 - 151000 
+596,Duolingo,"Software Engineering, Thrive Intern","Pittsburgh, PA",4.7,53000 - 114000 
+597,NetApp,Intern - Software Engineer (BLDR),"Boulder, CO",4.1,74000 - 163000 
+598,Databricks,Software Engineering Intern,"San Francisco, CA",4.8,79000 - 182000 
+599,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+600,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+601,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+602,Northrop Grumman,2022 Digital Software Engineer Intern-Baltimore,"Baltimore, MD",4,23 - 28 
+603,Pinterest,Software Engineering Intern (USA),,,81000 - 186000 
+604,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+605,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+606,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+609,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+610,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+612,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+613,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+614,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+615,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+616,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+617,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+618,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+619,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+620,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+622,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+623,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+624,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+625,Bose,"Embedded Software (Linux C++) Application Engineering Intern, Out Loud Audio","Framingham, MA",4,72000 - 151000 
+626,Duolingo,"Software Engineering, Thrive Intern","Pittsburgh, PA",4.7,53000 - 114000 
+627,NetApp,Intern - Software Engineer (BLDR),"Boulder, CO",4.1,74000 - 163000 
+628,Databricks,Software Engineering Intern,"San Francisco, CA",4.8,79000 - 182000 
+629,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+630,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+631,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+632,Northrop Grumman,2022 Digital Software Engineer Intern-Baltimore,"Baltimore, MD",4,23 - 28 
+633,Pinterest,Software Engineering Intern (USA),,,81000 - 186000 
+634,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+635,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+636,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+639,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+640,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+642,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+643,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+644,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+645,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+646,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+647,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+648,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+649,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+650,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+652,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+653,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+654,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+655,Bose,"Embedded Software (Linux C++) Application Engineering Intern, Out Loud Audio","Framingham, MA",4,72000 - 151000 
+656,Duolingo,"Software Engineering, Thrive Intern","Pittsburgh, PA",4.7,53000 - 114000 
+657,NetApp,Intern - Software Engineer (BLDR),"Boulder, CO",4.1,74000 - 163000 
+658,Databricks,Software Engineering Intern,"San Francisco, CA",4.8,79000 - 182000 
+659,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+660,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+661,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+662,Northrop Grumman,2022 Digital Software Engineer Intern-Baltimore,"Baltimore, MD",4,23 - 28 
+663,Pinterest,Software Engineering Intern (USA),,,81000 - 186000 
+664,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+665,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+666,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+669,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+670,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+672,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+673,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+674,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+675,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+676,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+677,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+678,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+679,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+680,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+682,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+683,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+684,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+685,Bose,"Embedded Software (Linux C++) Application Engineering Intern, Out Loud Audio","Framingham, MA",4,72000 - 151000 
+686,Duolingo,"Software Engineering, Thrive Intern","Pittsburgh, PA",4.7,53000 - 114000 
+687,NetApp,Intern - Software Engineer (BLDR),"Boulder, CO",4.1,74000 - 163000 
+688,Databricks,Software Engineering Intern,"San Francisco, CA",4.8,79000 - 182000 
+689,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+690,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+691,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+692,Northrop Grumman,2022 Digital Software Engineer Intern-Baltimore,"Baltimore, MD",4,23 - 28 
+693,Pinterest,Software Engineering Intern (USA),,,81000 - 186000 
+694,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+695,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+696,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+699,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+700,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+702,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+703,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+704,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+705,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+706,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+707,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+708,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+709,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+710,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+712,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+713,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+714,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+715,Bose,"Embedded Software (Linux C++) Application Engineering Intern, Out Loud Audio","Framingham, MA",4,72000 - 151000 
+716,Duolingo,"Software Engineering, Thrive Intern","Pittsburgh, PA",4.7,53000 - 114000 
+717,NetApp,Intern - Software Engineer (BLDR),"Boulder, CO",4.1,74000 - 163000 
+718,Databricks,Software Engineering Intern,"San Francisco, CA",4.8,79000 - 182000 
+719,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+720,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+721,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+722,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+723,Pinterest,Software Engineering Intern (USA),"Seattle, WA",4.2,81000 - 186000 
+725,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+726,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+727,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+729,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+730,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+731,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+732,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+733,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+735,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+736,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+737,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+738,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+739,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+741,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+742,NetApp,Intern - Software Engineer (BLDR),"Boulder, CO",4.1,74000 - 163000 
+743,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+744,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+745,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+746,Duolingo,"Software Engineering, Thrive Intern","Pittsburgh, PA",4.7,53000 - 114000 
+747,Databricks,Software Engineering Intern,"San Francisco, CA",4.8,79000 - 182000 
+748,Salesforce,Summer 2022 Intern - Software Engineer,"Bellevue, WA",4.4,38
+749,"Chick-fil-A, Inc.",2022 Software Engineering Summer Intern,"Atlanta, GA",3.9,54000 - 110000 
+750,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+751,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+752,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+753,Pinterest,Software Engineering Intern (USA),"Seattle, WA",4.2,81000 - 186000 
+755,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+756,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+757,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+759,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+760,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+761,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+762,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+763,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+765,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+766,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+767,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+768,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+769,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+771,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+772,NetApp,Intern - Software Engineer (BLDR),"Boulder, CO",4.1,74000 - 163000 
+773,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+774,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+775,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+776,Duolingo,"Software Engineering, Thrive Intern","Pittsburgh, PA",4.7,53000 - 114000 
+777,Databricks,Software Engineering Intern,"San Francisco, CA",4.8,79000 - 182000 
+778,Salesforce,Summer 2022 Intern - Software Engineer,"Bellevue, WA",4.4,38
+779,"Chick-fil-A, Inc.",2022 Software Engineering Summer Intern,"Atlanta, GA",3.9,54000 - 110000 
+780,MIM Software,Software Engineer Intern,"Beachwood, OH",4.5,51000 - 94000 
+781,Northrop Grumman,"Intern, Software Engineer","Linthicum, MD",4,34 - 36 
+782,Hewlett Packard Enterprise,Software Engineer - Intern,"Houston, TX",4,66000 - 146000 
+783,Pinterest,Software Engineering Intern (USA),"Seattle, WA",4.2,81000 - 186000 
+785,Garmin,"Software Engineer Intern (Java, JavaScript, Python - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+786,Salesforce,Software Engineer Intern - Quip,"San Francisco, CA",4.4,73000 - 165000 
+787,Salesforce,Summer 2022 Intern - Tableau Software Engineer,"Austin, TX",4.4,38
+789,Duolingo,"Software Engineer, Intern","Pittsburgh, PA",4.7,54000 - 115000 
+790,Twilio,Software Engineer Intern - USA - Summer 2022,"San Francisco, CA",4.4,41
+791,TikTok,Software Engineer Intern - 2022 Summer,"Mountain View, CA",3.6,80000 - 174000 
+792,Garmin,"Software Engineer Intern (Garmin Pay, NFC - Summer 2022 - Boulder, CO)","Boulder, CO",4.2,23 - 28 
+793,Unity Technologies,Software Engineer Intern,"Bellevue, WA",4.4,78000 - 139000 
+795,HP,Software Engineer Internship,"Spring, TX",4.2,64000 - 125000 
+796,Allegion,Summer Intern - Software Engineer,"Golden, CO",3.7,20 - 24 
+797,Intel,Graduate Software Engineer Intern,"Hillsboro, OR",4.2,62000 - 124000 
+798,Snapchat,2022 Software Engineer Intern,"Los Angeles, CA",4.1,78000 - 173000 
+799,Bose,Software Engineering Summer Intern,"Framingham, MA",4,67000 - 141000 
+801,Etsy,"Software Engineering Intern, Summer 2022","Brooklyn, NY",4.5,57000 - 125000 
+802,NetApp,Intern - Software Engineer (BLDR),"Boulder, CO",4.1,74000 - 163000 
+803,"Alteryx, Inc.",Software Engineer Intern (Summer 2022),"Irvine, CA",3.6,40
+804,MasterCard,Software Development Engineer Intern,"Arlington, VA",4.2,68000 - 135000 
+805,Garmin,Software Engineer Intern (Part-Time) - KSU Office,"Manhattan, KS",4.2,32000 - 70000 
+806,Duolingo,"Software Engineering, Thrive Intern","Pittsburgh, PA",4.7,53000 - 114000 
+807,Databricks,Software Engineering Intern,"San Francisco, CA",4.8,79000 - 182000 
+808,Salesforce,Summer 2022 Intern - Software Engineer,"Bellevue, WA",4.4,38
+809,"Chick-fil-A, Inc.",2022 Software Engineering Summer Intern,"Atlanta, GA",3.9,54000 - 110000 
